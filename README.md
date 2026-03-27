@@ -62,3 +62,42 @@ This project analyzes traffic accident data to identify geographic hotspots and 
 
 ## Key Insights
 
+- Traffic accidents are highly concentrated in urban areas and along major road networks
+- Accident frequency peaks during commuting hours
+- Geographic clustering indicates strong correlation with population density and traffic volume
+- Severity patterns suggest environmental and visibility conditions influence accident outcomes
+
+## Business Impact
+
+This analysis demonstrates how geospatial data can support:
+- Road safety improvement strategies
+- Urban planning and traffic management
+- Risk assessment for transportation systems
+- Data-driven decision-making in public infrastructure
+
+## Dataset
+
+US Accidents Dataset (2016-2023)
+Avaliable on Kaggle
+
+## Interactive Map
+
+An interactive accident heatmap is included in the `outputs` folder:
+
+outputs/accident_heatmap.html
+
+This file can be opened in a browser to explore accident hotspots dynamically.
+
+## Author
+
+**Tendai Sinkala**
+Data Analyst | SQL - Python - Machine Learning - Geospatial Analytics
+
+## Future Improvements
+
+- Build predictive model for accident severity
+- Incorporate real-time traffic data
+- Add geographic clustering algorithms
+- Develop interactive dashboard for stakeholders
+
+
